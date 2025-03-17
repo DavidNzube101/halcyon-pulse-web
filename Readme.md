@@ -59,11 +59,3 @@ The system is structured into several KEY components:
 ### DevOps & Deployment
 - **Containerization:**  
   Docker for containerized deployment
-
-npm install
-npm start
-
-# Frontend Setup (React Example)
-cd ../frontend
-npm install
-npm start
